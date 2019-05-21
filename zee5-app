@@ -1,0 +1,2 @@
+#!/bin/bash
+chrome --app="https://www.zee5.com/" > /dev/null 2>&1 &

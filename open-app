@@ -1,0 +1,2 @@
+#!/bin/bash
+chrome --app="$@" > /dev/null 2>&1 &

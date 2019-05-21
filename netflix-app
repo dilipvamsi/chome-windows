@@ -1,0 +1,2 @@
+#!/bin/bash
+chrome --app="https://www.netflix.com/browse" > /dev/null 2>&1 &

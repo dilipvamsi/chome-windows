@@ -1,0 +1,2 @@
+#!/bin/bash
+chrome --app="https://www.primevideo.com" > /dev/null 2>&1 &
