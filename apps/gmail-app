@@ -1,0 +1,2 @@
+#!/bin/bash
+chrome --app="https://mail.google.com/mail/" > /dev/null 2>&1 &
