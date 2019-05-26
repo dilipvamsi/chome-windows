@@ -1,0 +1,2 @@
+#!/bin/bash
+chrome --app="https://music.amazon.com/home" > /dev/null 2>&1 &
