@@ -1,0 +1,2 @@
+#!/bin/bash
+chrome --app="https://www.viz.com/shonenjump" > /dev/null 2>&1 &
