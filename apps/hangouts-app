@@ -1,0 +1,2 @@
+#!/bin/bash
+chrome --app="https://hangouts.google.com/" > /dev/null 2>&1 &
